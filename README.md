@@ -3,8 +3,6 @@
 ## Hi there, I'm Aaryan 👋
 AWS Cloud Engineer | Building scalable cloud-based systems
 
----
-
 ## Core Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
