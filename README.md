@@ -3,6 +3,32 @@
 ## Hi there, I'm Aaryan 👋
 AWS Cloud Engineer | Building scalable cloud-based systems
 
+## Connect with me:
+<p align="center">
+  <a href="mailto:aaryanwastaken17@gmail.com">
+    <img src="https://img.shields.io/badge/AWS%20Cloud%20Engineer-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/aaryanpal17">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/rnOverflow">
+    <img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Deployments-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+   Building & Deploying Scalable Applications on AWS <br>
+   Focused on Cloud, Backend & Real-world Projects <br>
+   Open to internships, collaborations & opportunities
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM%20%7C%20Lambda-orange?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Live%20on%20Cloud-green?style=flat&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-blueviolet?style=flat" />
+</p>
+
 ## Core Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
