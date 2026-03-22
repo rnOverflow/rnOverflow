@@ -4,17 +4,15 @@
 AWS Cloud Engineer | Building scalable cloud-based systems
 
 ## Connect with me:
-<p>
-  <a href="mailto:aaryanwastaken17@gmail.com">
-    <img src="https://img.shields.io/badge/AWS%20Cloud%20Engineer-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  
-  <a href="https://linkedin.com/in/aaryanpal17">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
   </a>
-  
-  <a href="https://github.com/rnOverflow">
-    <img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Deployments-black?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
   </a>
 </p>
 
