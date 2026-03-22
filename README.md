@@ -39,7 +39,8 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight)
 
----
-
-## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rnOverflow&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight&hide_border=true)
