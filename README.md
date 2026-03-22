@@ -4,7 +4,7 @@
 AWS Cloud Engineer | Building scalable cloud-based systems
 
 ## Connect with me:
-<p align="left">
+<p align="centre">
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
@@ -19,7 +19,6 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 <p>
    Building & Deploying Scalable Applications on AWS <br>
    Focused on Cloud, Backend & Real-world Projects <br>
-   Open to internships, collaborations & opportunities
 </p>
 
 ## Core Tech Stack
