@@ -18,7 +18,7 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-![Snake animation](https://github.com/rnOverflow/github-snake/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
