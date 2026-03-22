@@ -14,7 +14,7 @@
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![EC2](https://img.shields.io/badge/EC2-orange?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-blue?style=for-the-badge&logo=amazonaws)
 ![S3](https://img.shields.io/badge/S3-green?style=for-the-badge&logo=amazonaws)
 ![IAM](https://img.shields.io/badge/IAM-yellow?style=for-the-badge&logo=amazonaws)
 
