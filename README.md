@@ -14,6 +14,9 @@ AWS Cloud Engineer | Building scalable cloud-based systems
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
   </a>
+  <a href="https://x.com/aaryanwaslost17">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 <p>
