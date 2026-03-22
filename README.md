@@ -27,7 +27,7 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 ## Core Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
