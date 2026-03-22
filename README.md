@@ -1,34 +1,25 @@
 # Hi, I'm Aaryan 👋
 
 ## 🚀 About Me
-- 🎓 Student at SRM University  
-- 📊 Interested in Finance + Data Analysis  
+- 📊 Interested in Finance & Data Analysis  
 - ☁️ Currently learning AWS  
+- 🧠 Building real-world data projects  
 
 ---
 
 ## 🛠️ Tech Stack
-Python | Pandas | NumPy | Excel | AWS  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=rnOverflow&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight)
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email)
-
