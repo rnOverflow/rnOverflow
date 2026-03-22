@@ -23,11 +23,6 @@ AWS Cloud Engineer | Building scalable cloud-based systems
    Focused on Cloud, Backend & Real-world Projects <br>
    Open to internships, collaborations & opportunities
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20IAM%20%7C%20Lambda-orange?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment-Live%20on%20Cloud-green?style=flat&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-blueviolet?style=flat" />
-</p>
 
 ## Core Tech Stack
 
