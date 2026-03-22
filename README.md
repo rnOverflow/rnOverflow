@@ -24,3 +24,11 @@ Python | Pandas | NumPy | Excel | AWS
 
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email)
+
