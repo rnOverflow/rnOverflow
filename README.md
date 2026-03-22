@@ -4,7 +4,7 @@
 AWS Cloud Engineer | Building scalable cloud-based systems
 
 ## Connect with me:
-<p align="center">
+<p>
   <a href="mailto:aaryanwastaken17@gmail.com">
     <img src="https://img.shields.io/badge/AWS%20Cloud%20Engineer-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -18,7 +18,7 @@ AWS Cloud Engineer | Building scalable cloud-based systems
   </a>
 </p>
 
-<p align="center">
+<p>
    Building & Deploying Scalable Applications on AWS <br>
    Focused on Cloud, Backend & Real-world Projects <br>
    Open to internships, collaborations & opportunities
