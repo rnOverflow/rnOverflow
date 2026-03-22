@@ -1,6 +1,8 @@
 <div align="center">
+  
 ## Hi there, I'm Aaryan 👋
-☁️ Aspiring AWS Cloud Engineer | Building scalable cloud-based systems
+---
+AWS Cloud Engineer | Building scalable cloud-based systems
 
 ---
 
