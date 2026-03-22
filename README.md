@@ -1,7 +1,6 @@
 <div align="center">
   
 ## Hi there, I'm Aaryan 👋
----
 AWS Cloud Engineer | Building scalable cloud-based systems
 
 ---
@@ -19,8 +18,6 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-
----
 
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight)
