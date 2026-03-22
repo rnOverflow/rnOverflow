@@ -11,7 +11,7 @@ AWS Cloud Engineer | Building scalable cloud-based systems
   <a href="https://github.com/rnOverflow">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
   </a>
-  <a href="mailto:aaryanwastaken17@gmail.com">
+  <a href="aaryanwastaken17@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
   </a>
   <a href="https://x.com/aaryanwaslost17">
