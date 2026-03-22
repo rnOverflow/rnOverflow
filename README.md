@@ -1,4 +1,5 @@
 # Hi, I'm Aaryan 👋
+☁️ Aspiring AWS Cloud Engineer | Building scalable cloud-based systems
 
 ## 🚀 About Me
 
