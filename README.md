@@ -5,13 +5,13 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 
 ## Connect with me:
 <p align="centre">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/aaryanpal17">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/rnOverflow">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aaryanwastaken17@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
   </a>
   <a href="https://x.com/aaryanwaslost17">
