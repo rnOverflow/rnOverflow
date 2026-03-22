@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Aaryan 👋
 ☁️ Aspiring AWS Cloud Engineer | Building scalable cloud-based systems
 
@@ -42,3 +43,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rnOverflow&theme=tokyonight&hide_border=true)
+</div>
