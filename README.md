@@ -37,8 +37,8 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 
 
 ## GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight&langs_count=6&exclude_repo=diabetes-prediction-project)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight&langs_count=6)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=rnOverflow&theme=tokyonight&hide_border=true)
 </div>
