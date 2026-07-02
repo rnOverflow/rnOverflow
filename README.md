@@ -1,6 +1,6 @@
 <div align="left">
   
-## Hi there, I'm Aaryan 👋
+## Hi there, I'm Aaryan
 AWS Cloud Engineer | Building scalable cloud-based systems
 
 ## Connect with me:
