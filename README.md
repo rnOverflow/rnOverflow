@@ -34,13 +34,14 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-
-
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight" height="170" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&langs_count=10&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rnOverflow&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rnOverflow&theme=tokyonight" />
+</p>
 </div>
