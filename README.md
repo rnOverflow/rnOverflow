@@ -36,11 +36,18 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 
 ## GitHub Stats
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rnOverflow&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rnOverflow&layout=compact&theme=tokyonight" height="170"/>
-
-  <img src="https://streak-stats.demolab.com?user=rnOverflow&theme=tokyonight"/>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rn0verflow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Aaryan's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn0verflow&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Aaryan's Top Languages"
+    height="180"
+  />
+</p>
 
   ## 3D Contribution Calendar
 
