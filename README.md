@@ -34,21 +34,6 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-## GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rn0verflow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Aaryan's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rn0verflow&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Aaryan's Top Languages"
-    height="180"
-  />
-</p>
-
   ## 3D Contribution Calendar
 
   <p align="center">
