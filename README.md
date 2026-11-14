@@ -34,9 +34,3 @@ AWS Cloud Engineer | Building scalable cloud-based systems
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-  ## 3D Contribution Calendar
-
-  <p align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="50%">
-  </p>
-</div>
